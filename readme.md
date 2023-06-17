@@ -1,3 +1,3 @@
-Check swagger documentation
-http://localhost:8080/swagger/index.html
+Api endpoint
+https://final-project-production-6f2b.up.railway.app/
 ```
